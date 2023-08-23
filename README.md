@@ -17,26 +17,26 @@
 
 
 ## Introduction <a name="intro"></a>
-This is a curated list of tools and tips for students in the National University MS and BS Cybersecurity Programs.
+This is a curated list of tools, reference sites, resources, and tips for students in the National University MS and BS Cybersecurity Programs.
 
-## Lab Environments <a name="labs"></a>
+## Hosted Lab Environments <a name="labs"></a>
 
 [Infosec Learning Labs](https://www.infoseclearning.com/index.aspx)  
-[NICE Challenges](https://www.nice-challenge.com/)  
+[NICE Challenges Portal](https://portal.nice-challenge.com/)  
 [National Cyber League](https://www.nationalcyberleague.org/)  
 [ITPro.tv](https://itpro.tv/)  
 [Immersive Labs](https://dca.immersivelabs.online/)
-
+[TryHackMe Labs](https://www.tryhackme.com/)
+[Hack The Box Labs](https://www.hackthebox.com/)
 
 ## Free Virtual Environments <a name="virtual"></a>
 
-As a supplemental resource to the commercial CSIA labs that will be used for most courses, the following VM tools may be used, which allows local system setup and configuration for students to practice with toolsets.  NOTE – most CSIA course assignments require the use of a hosted lab environment, where student activity is reported to the instructor; therefore, unless specifically given permission by an instructor to use a personal VM for an assignment, the options listed below are for students’ convenience only, to practice using the tools.
+As a supplemental resource to the commercial labs that will be used for most CYB courses, the following VM tools may be used by students to create local VM configurations to practice with various toolsets.  NOTE – most CYB course lab assignments require the use of a hosted lab environment, where student activity is reported to the instructor. Therefore, unless specifically given permission by an instructor to use a personal VM for an assignment, the options listed below are for students’ convenience only, to practice using the tools. In some cases, a course project might allow the use of a personal VM, as long as it meets the project requirements and all team members have access to the VM being used.
 
-[VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html) - also available through the NU SSO Portal using the VMWare chiclet/link  
-[Oracle Virtual Box](https://www.virtualbox.org/)  
+[VMWare Player](http://www.vmware.com/products/player/playerpro-evaluation.html) - this is an Evaluation copy and will only allow usage for a limited time period. 
+[Oracle Virtual Box](https://www.virtualbox.org/) - since about 2021, this has become the defacto VM tool for students. 
 
-In addition, students have access to free and low cost software through the NU SSO Portal, using the "VMware" chiclet or the "Microsoft Imagine" chiclet. On the VMware site, you can obtain WMware Workstation (current full version) for Windows or VMware Fusion for Mac-OS, to install a hosted VM platform; as well as vCenter Server (bare-metal VM platform) and vSphere (web-based workstation/client).  
-
+In addition, students may request access to the VMware IT Academy at Brightspace/D2L (https://itacademy.brightspace.com/d2l/home) through their current instructor, which provides free and low cost VMware software. You must be an actively enrolled student to use this service, and the software license received will only be valid for one year (12 months) from when it is ordered and downloaded. 
 
 ## Linux Operating Systems <a name="Linux"></a>
 
@@ -68,7 +68,7 @@ In addition, students have access to free and low cost software through the NU S
 
 ### Command Line Tips and References
 
-[The Linux Command Line – A Complete Introduction by William Shotts (free downloadable PDF)]( http://linuxcommand.org/tlcl.php )
+[The Linux Command Line – A Complete Introduction by William Shotts (free online PDF)]( http://linuxcommand.org/tlcl.php)
 
 [A-Z Index of Bash command line for Linux (SS64.com)](http://ss64.com/bash/ )
 
